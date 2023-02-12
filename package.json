@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://CreaterboyDk.github.io/React-portfolio",
+  "homepage": "https://CreaterboyDk.github.io/my-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
